@@ -139,6 +139,7 @@
 		0A7E4BF316063EE600600065 /* ChildObj.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A7E4BF216063EE600600065 /* ChildObj.m */; };
 		0A7E4C06160A2B0A00600065 /* Test3ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A7E4C04160A2B0A00600065 /* Test3ViewController.m */; };
 		0A7E4C07160A2B0A00600065 /* Test3ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0A7E4C05160A2B0A00600065 /* Test3ViewController.xib */; };
+		2F598747160C7CC600D54EE6 /* LoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F598746160C7CC600D54EE6 /* LoadingView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -413,6 +414,8 @@
 		0A7E4C03160A2B0A00600065 /* Test3ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Test3ViewController.h; sourceTree = "<group>"; };
 		0A7E4C04160A2B0A00600065 /* Test3ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Test3ViewController.m; sourceTree = "<group>"; };
 		0A7E4C05160A2B0A00600065 /* Test3ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Test3ViewController.xib; sourceTree = "<group>"; };
+		2F598745160C7CC600D54EE6 /* LoadingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoadingView.h; sourceTree = "<group>"; };
+		2F598746160C7CC600D54EE6 /* LoadingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoadingView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -489,6 +492,8 @@
 				0A7E4C03160A2B0A00600065 /* Test3ViewController.h */,
 				0A7E4C04160A2B0A00600065 /* Test3ViewController.m */,
 				0A7E4C05160A2B0A00600065 /* Test3ViewController.xib */,
+				2F598745160C7CC600D54EE6 /* LoadingView.h */,
+				2F598746160C7CC600D54EE6 /* LoadingView.m */,
 			);
 			path = 20120917_1;
 			sourceTree = "<group>";
@@ -1039,6 +1044,7 @@
 				0A7E4BEF1606382000600065 /* TestObj.m in Sources */,
 				0A7E4BF316063EE600600065 /* ChildObj.m in Sources */,
 				0A7E4C06160A2B0A00600065 /* Test3ViewController.m in Sources */,
+				2F598747160C7CC600D54EE6 /* LoadingView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
